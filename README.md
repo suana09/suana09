@@ -1,6 +1,6 @@
-## 🐼 Hello, world! from KWAK SUAH 🐼
+## 🐼 Hello, world! : from KWAK SUAH 🐼
 
-Very new to here 😮 doing my best
+Very new to coding but doing my best ❗
 
 ## Now learning ...
 
