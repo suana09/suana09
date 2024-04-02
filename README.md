@@ -2,7 +2,7 @@
 
 
 <br><br><br>
-Hi, I'm very new to here (both of Github and dev works)
+...Learning...
 
 <p></p>
 
