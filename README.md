@@ -1,10 +1,11 @@
-## 🐼 hello, world! : from KWAK SUAH 🐼
+## 🐼 hello, world! : from Suana 🐼
 
 
 <br><br><br>
-system.out println ("hello, world!") ; 
+Hi, I'm very new to here (both of Github and dev works)
+
 <p></p>
-Very new to coding but doing my best ❗
+
 
 <br><br><br>
 
@@ -20,6 +21,7 @@ Very new to coding but doing my best ❗
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
+
 
 
 
@@ -39,6 +41,4 @@ Very new to coding but doing my best ❗
 
 
 
-
-
-## 
+### 
